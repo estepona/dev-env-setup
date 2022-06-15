@@ -35,3 +35,17 @@ Finally, add `export PATH=$PATH:$HOME/Documents/scripts/bin` to `.bashrc`.
 ### Plugins
 
 #### NERDTREE
+
+##### Switch windows
+
+`Ctrl + w` + `w`
+
+Ref
+- [How to switch between different windows](https://github.com/preservim/nerdtree/wiki/F.A.Q.#how-do-i-switch-between-the-different-windows)
+
+##### Add, Remove, Rename file/dir
+
+Type `m` to invoke an interactive dialog
+- add: `m` + `a`
+- remove: `m` + `d`
+- move (rename): `m` + `m`
