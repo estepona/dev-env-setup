@@ -57,6 +57,11 @@ Required to install all plugins.
 Ref
 - [How to switch between different windows](https://github.com/preservim/nerdtree/wiki/F.A.Q.#how-do-i-switch-between-the-different-windows)
 
+#### Switch tabs
+
+- `gt` to next tab
+- `gT` to prev tab
+
 ##### Add, Remove, Rename file/dir
 
 Type `m` to invoke an interactive dialog
