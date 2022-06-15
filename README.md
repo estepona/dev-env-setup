@@ -1,5 +1,16 @@
 # dev-env-setup
 
+## OS
+
+### Ubuntu
+
+#### Update
+
+```bash
+sudo apt install update
+sudo apt install build-essential
+```
+
 ## tmux
 
 ### Install
