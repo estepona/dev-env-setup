@@ -1,0 +1,21 @@
+{
+	"coc.preferences.formatOnSaveFiletype": [
+		"json",
+		"terraform",
+		"tf"
+	],
+	"json.format.enable": true,
+	"languageserver": {
+		"terraform": {
+			"command": "terraform-ls",
+			"args": [
+				"serve"
+			],
+			"filetypes": [
+				"terraform",
+				"tf"
+			],
+			"initializationOptions": {}
+		}
+	}
+}

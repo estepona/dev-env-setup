@@ -59,6 +59,21 @@ My [init.vim](./init.vim) config file.
 
 Required to install all plugins.
 
+#### [Coc](https://github.com/neoclide/coc.nvim)
+
+##### Install
+
+Follow the official guide to install coc with nodejs, then add the plugin to `init.vim` file:  
+`Plug 'https://github.com/neoclide/coc.nvim'`
+
+Then, at least install `coc-json` and `coc-sh` with `:CocInstall coc-json coc-sh`
+
+##### Config
+
+`:CocConfig`
+
+My [coc-settings.json](./coc-settings.json) config file.
+
 #### NERDTREE
 
 ##### Switch windows
