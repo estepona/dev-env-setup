@@ -20,6 +20,7 @@ sudo apt install build-essential
 ### vim-like pane switching
 
 `vim .tmux.conf`
+
 ```bash
 bind -r k select-pane -U
 bind -r j select-pane -D
@@ -30,6 +31,7 @@ bind -r l select-pane -R
 ### Custom script to create a "tmux IDE"  
 
 `vim Documents/scripts/bin/ide`
+
 ```bash
 #!/bin/bash
 tmux split-window -v -p 30
@@ -66,7 +68,8 @@ Required to install all plugins.
 Follow the official guide to install coc with nodejs, then add the plugin to `init.vim` file:  
 `Plug 'https://github.com/neoclide/coc.nvim'`
 
-Then, at least install `coc-json` and `coc-sh` with `:CocInstall coc-json coc-sh`
+Then, install essential LSPs:  
+`:CocInstall coc-json coc-sh coc-markdownlint`
 
 ##### Config
 
