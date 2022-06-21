@@ -55,6 +55,9 @@ Ubuntu: `sudo apt install neovim`
 
 My [init.vim](./init.vim) config file.
 
+TODO
+- tab size config, tab=2space
+
 ### Plugins
 
 #### [vim-plug](https://github.com/junegunn/vim-plug)
