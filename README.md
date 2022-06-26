@@ -15,15 +15,16 @@ sudo apt install build-essential
 
 ### Install
 
+#### zsh
 `sudo apt install zsh`, then set it as default shell with `chsh -s $(which zsh)`
+
+#### ohmyzsh
+
+Follow https://github.com/ohmyzsh/ohmyzsh.
 
 ### Nerd Fonts
 
-Required to customize zsh. Download and install one (i.e. Hack) from https://github.com/ryanoasis/nerd-fonts/releases.
-
-### Config
-
-`zsh`, choose **2**
+Required to customize zsh. Download and install one (i.e. Hack) from https://github.com/ryanoasis/nerd-fonts/releases, then set it as the default font.
 
 ## tmux
 
