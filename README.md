@@ -11,6 +11,25 @@ sudo apt install update
 sudo apt install build-essential
 ```
 
+## Terminal
+
+### Windows Terminal
+
+Appearance
+- Color scheme: `Tango Dark`
+- Font face: `Hack NF`
+- Font size: `12`
+- Retro terminal effects: `On`
+- Cursor shape: `Filled box`
+- Intense text style: `Bright colors`
+- Background opacity: `40%`
+- Enable acrylic material: `On`
+- Padding: `8`
+- Scrollbar visibility: `Visible`
+
+Advanced
+- Bell notification style: `Flash window`
+
 ## zsh
 
 ### Install
@@ -21,6 +40,12 @@ sudo apt install build-essential
 #### ohmyzsh
 
 Follow https://github.com/ohmyzsh/ohmyzsh.
+
+##### Config
+
+```vim
+ZSH_THEME="jonathan"
+```
 
 ### Nerd Fonts
 
