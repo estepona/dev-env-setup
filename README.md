@@ -11,6 +11,16 @@ sudo apt install update
 sudo apt install build-essential
 ```
 
+## zsh
+
+### Install
+
+`sudo apt install zsh`, then set it as default shell with `chsh -s $(which zsh)`
+
+### Config
+
+`zsh`, choose **2**
+
 ## tmux
 
 ### Install
