@@ -17,6 +17,10 @@ sudo apt install build-essential
 
 `sudo apt install zsh`, then set it as default shell with `chsh -s $(which zsh)`
 
+### Nerd Fonts
+
+Required to customize zsh. Download and install one (i.e. Hack) from https://github.com/ryanoasis/nerd-fonts/releases.
+
 ### Config
 
 `zsh`, choose **2**
