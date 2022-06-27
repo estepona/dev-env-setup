@@ -88,6 +88,14 @@ Make it executable: `chmod +x Documents/scripts/bin/ide`
 
 Finally, add `export PATH=$PATH:$HOME/Documents/scripts/bin` to `.bashrc`.
 
+## [nvm](https://github.com/nvm-sh/nvm)
+
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+
+### npm
+
+### yarn
+
 ## [Neovim](https://neovim.io/)
 
 ### [Install](https://github.com/neovim/neovim/wiki/Installing-Neovim)
