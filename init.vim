@@ -19,8 +19,7 @@ Plug 'nvim-telescope/telescope.nvim'
 
 call plug#end()
 
-nnoremap <C-f> :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
+" NERDTree
+nnoremap <C-n> :NERDTreeToggle<CR>
 
 :colorscheme jellybeans
