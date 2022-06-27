@@ -7,7 +7,7 @@
 #### Update
 
 ```bash
-sudo apt install update
+sudo apt update
 sudo apt install build-essential
 ```
 
