@@ -19,8 +19,8 @@ Appearance
 - Color scheme: `Tango Dark`
 - Font face: `Hack NF`
 - Font size: `12`
-- Font weight: `medium`
-- Retro terminal effects: `On`
+- Font weight: `Semi-bold`
+- Retro terminal effects: `Off`
 - Cursor shape: `Filled box`
 - Intense text style: `Bright colors`
 - Background opacity: `40%`
