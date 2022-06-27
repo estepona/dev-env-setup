@@ -100,7 +100,11 @@ Finally, add `export PATH=$PATH:$HOME/Documents/scripts/bin` to `.bashrc`.
 
 ### [Install](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
-Ubuntu: `sudo apt install neovim`
+Install from releases page.
+
+### Uninstall or Update
+
+Delete (`sudo apt-get remove --auto-remove neovim`) and then install from releases.
 
 ### Config
 
