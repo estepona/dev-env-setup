@@ -34,22 +34,26 @@ Advanced
 
 ### Install
 
-#### zsh
 `sudo apt install zsh`, then set it as default shell with `chsh -s $(which zsh)`
 
-#### ohmyzsh
+### ohmyzsh
 
 Follow https://github.com/ohmyzsh/ohmyzsh.
 
-##### Config
+#### Nerd Fonts
+
+Required to customize ohmyzsh. Download and install one (i.e. Hack) from https://github.com/ryanoasis/nerd-fonts/releases, then set it as the default font.
+
+#### Theme
 
 ```vim
 ZSH_THEME="jonathan"
 ```
 
-### Nerd Fonts
+#### Plugins
 
-Required to customize zsh. Download and install one (i.e. Hack) from https://github.com/ryanoasis/nerd-fonts/releases, then set it as the default font.
+- git
+- [auto suggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ## tmux
 
