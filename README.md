@@ -146,6 +146,8 @@ Type `m` to invoke an interactive dialog
 - remove: `m` + `d`
 - move (rename): `m` + `m`
 
+#### [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
+
 ### Vim tips
 
 How to copy to and paste from system clipboard
