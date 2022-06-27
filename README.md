@@ -158,6 +158,8 @@ Type `m` to invoke an interactive dialog
 - remove: `m` + `d`
 - move (rename): `m` + `m`
 
+#### [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+
 #### [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
 
 ### Vim tips
