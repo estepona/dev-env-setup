@@ -48,7 +48,7 @@ Required to customize ohmyzsh. Download and install one (i.e. Hack) from https:/
 #### Theme
 
 ```vim
-ZSH_THEME="jonathan"
+ZSH_THEME="robbyrussell"
 ```
 
 #### Plugins
