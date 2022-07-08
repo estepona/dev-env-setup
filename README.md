@@ -150,6 +150,10 @@ Ref
 
 - `gt` to next tab
 - `gT` to prev tab
+- `{count}gt` to tab page {count}. The first tab page has number one.
+
+Ref
+- Official Guide](https://neovim.io/doc/user/tabpage.html)
 
 ##### Add, Remove, Rename file/dir
 
