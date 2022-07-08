@@ -129,7 +129,7 @@ Follow the official guide to install coc with nodejs, then add the plugin to `in
 `Plug 'https://github.com/neoclide/coc.nvim'`
 
 Then, install essential LSPs:  
-`:CocInstall coc-json coc-sh coc-markdownlint`
+`:CocInstall coc-json coc-sh coc-yaml coc-markdownlint`
 
 ##### Config
 
