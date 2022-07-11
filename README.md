@@ -112,9 +112,6 @@ Delete (`sudo apt-get remove --auto-remove neovim`) and then install from releas
 
 My [init.vim](./init.vim) config file.
 
-TODO
-- tab size config, tab=2space
-
 ### Plugins
 
 #### [vim-plug](https://github.com/junegunn/vim-plug)
