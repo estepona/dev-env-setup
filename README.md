@@ -2,6 +2,15 @@
 
 ## OS
 
+### Mac
+
+Install **homebrew**.
+
+```bash
+brew install tmux
+brew install neovim
+```
+
 ### Ubuntu
 
 #### Update
