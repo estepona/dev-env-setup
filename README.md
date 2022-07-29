@@ -4,7 +4,7 @@
 
 ### Mac
 
-Install **homebrew**.
+Install **homebrew**
 
 ```bash
 brew install tmux
